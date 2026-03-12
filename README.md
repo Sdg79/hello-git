@@ -25,11 +25,13 @@ Este es un <sup>superí­ndice</sup>
 
 1. Elemento 1
 2. Elemento 2
-3. Elemento 3
+3. Elemento 3  
+
 *****
 1. Primer Nivel  
-    Segundo Nivel  
-        Tercer Nivel  
+    2. Segundo Nivel  
+        3. Tercer Nivel  
+*****
 
 `print("Hola, Mundo!")`
 
