@@ -29,9 +29,9 @@ Este es un <sup>superí­ndice</sup>
 
 *****
 # A ver si ahora funciona  
-1. Primer Nivel
-    2. Segundo Nivel
-        3. Tercer Nivel
+1. Primer Nivel  
+    2. Segundo Nivel  
+        3. Tercer Nivel  
 *****
 
 `print("Hola, Mundo!")`
