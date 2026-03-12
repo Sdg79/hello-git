@@ -11,7 +11,9 @@ Este es un <sub>subí­ndice</sub>
 Este es un <sup>superí­ndice</sup>  
 [Link a ARCA](https://www.afip.gob.ar)  
 ![](https://servicioscf.afip.gob.ar/publico/sitio/contenido/common/image.aspx?i=5070|image-cab.jpg)  
-[![Preview de ARCA](https://www.afip.gob.ar/frameworkAFIP/img/Arca-logo-grande-blanco.svg)](https://www.afip.gob.ar)  
+[![Preview de ARCA](https://servicioscf.afip.gob.ar/publico/sitio/contenido/common/image.aspx?i=5150|banner_siradig_02.jpg)](https://www.afip.gob.ar)  
+
+
 > Esta es una cita
 * Elemento 1
 * Elemento 2
@@ -23,7 +25,7 @@ Este es un <sup>superí­ndice</sup>
 
 1. Elemento 1
 2. Elemento 2
-3. Elemento 3  
+3. Elemento 3\  
 
 1. Primer Nivel
     2. Segundo Nivel
