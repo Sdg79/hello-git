@@ -1,31 +1,36 @@
 # Hello Git
 ## Ejercicios MD
 #### Cuarto Nivel
-**Frase en Negrita**
-**Negrita** el resto no
-_Cursiva_ y tambien asi *Cursiva*
-_Sergio_ es mi nombre, _Python_ mi lenguaje de programación
-**_Cursiva y negrita_**
-<ins>Frase subrayada<ins>
-Este es un <sub>subí­ndice</sub>
-Este es un <sup>superí­ndice</sup>
-[Link a mouredev.pro](https://mouredev.pro)
-![](https://mouredev.pro/preview.jpg)
-[![Preview de mouredev pro](https://mouredev.pro/preview.jpg)](https://mouredev.pro)
+**Frase en Negrita**  
+**Negrita** el resto no  
+_Cursiva_ y tambien asi *Cursiva*  
+_Sergio_ es mi nombre, _Python_ mi lenguaje de programación  
+**_Cursiva y negrita_**  
+<ins>Frase subrayada<ins>  
+Este es un <sub>subí­ndice</sub>  
+Este es un <sup>superí­ndice</sup>  
+[Link a ARCA](https://www.afip.gob.ar)  
+![](https://servicioscf.afip.gob.ar/publico/sitio/contenido/common/image.aspx?i=5070|image-cab.jpg)  
+[![Preview de ARCA](https://www.afip.gob.ar/frameworkAFIP/img/Arca-logo-grande-blanco.svg)](https://www.afip.gob.ar)  
 > Esta es una cita
 * Elemento 1
 * Elemento 2
 * Elemento 3
+
 * Primer Nivel
     * Segundo Nivel
         * Tercer Nivel
+
 1. Elemento 1
 2. Elemento 2
 3. Elemento 3
+
 1. Primer Nivel
     2. Segundo Nivel
-        3. Tercer Nivel
+        3. Tercer Nivel  
+
 `print("Hola, Mundo!")`
+
 ```
 for index in range(0, 10):
 	print(f"{index}")
@@ -43,27 +48,27 @@ for index in range(0, 10):
             <th>#</th>
             <th>Nombre</th>
             <th>Edad</th>
-            <th>PaÃ­s</th>
+            <th>Paí­s</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>1</td>
-            <td>Brais</td>
-            <td>37</td>
-            <td>EspaÃ±a</td>
+            <td>Laura</td>
+            <td>50</td>
+            <td>Argentina</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>MarÃ­a</td>
+            <td>Marí­a</td>
             <td>34</td>
-            <td>MÃ©xico</td>
+            <td>México</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Sara</td>
+            <td>Franco</td>
             <td>22</td>
-            <td>Argentina</td>
+            <td>España</td>
         </tr>
     </tbody>
 </table>
