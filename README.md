@@ -6,7 +6,7 @@
 _Cursiva_ y tambien asi *Cursiva*  
 _Sergio_ es mi nombre, _Python_ mi lenguaje de programación  
 **_Cursiva y negrita_**  
-<ins>Frase subrayada<ins>  
+<ins>Frase subrayada</ins>  
 Este es un <sub>subí­ndice</sub>  
 Este es un <sup>superí­ndice</sup>  
 [Link a ARCA](https://www.afip.gob.ar)  
@@ -23,7 +23,7 @@ Este es un <sup>superí­ndice</sup>
 
 1. Elemento 1
 2. Elemento 2
-3. Elemento 3
+3. Elemento 3  
 
 1. Primer Nivel
     2. Segundo Nivel
