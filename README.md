@@ -30,7 +30,7 @@ Este es un <sup>superí­ndice</sup>
 *****
 1. Primer Nivel  
     2. Segundo Nivel  
-        3. Tercer Nivel  
+            3. Tercer Nivel  
 *****
 
 `print("Hola, Mundo!")`
