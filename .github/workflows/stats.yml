@@ -1,0 +1,32 @@
+name: Stats
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repo 
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.14'
+        
+      - name: Run script
+        run: ./hello-git/login.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Update login
+          commit_user_name: Sergio [Github Actions]
+          commit_user_email: sergio@estudiogiovagnoli.coma.ar
+          commit_author: Sdg79
