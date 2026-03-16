@@ -3,12 +3,14 @@ import xml
 import os
 from datetime import datetime
 
+path = os.path.dirname(__file__)
+
 # .txt file
 
 now = datetime.now()
 
 # escribir
-txt_file = open("c:/Users/SergioDGiovagnoli/Documents/Git/Hello Git/texto.txt", "a+")
+txt_file = open(os.path.join(path, "texto.txt"), "a+")
 
 txt_file.write(
     "\nEjecución de GibHub Actions: " + str(now))
